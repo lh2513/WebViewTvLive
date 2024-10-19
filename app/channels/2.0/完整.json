@@ -489,6 +489,104 @@
     ]
   },
   {
+    "name": "东莞综合",
+    "groupName": "广东",
+    "urls": [
+      "https://dgrtv.sun0769.com/index.php/online2/4"
+    ]
+  },
+  {
+    "name": "东莞生活",
+    "groupName": "广东",
+    "urls": [
+      "https://dgrtv.sun0769.com/index.php/online2/5"
+    ]
+  },
+  {
+    "name": "河源综合",
+    "groupName": "广东",
+    "urls": [
+      "https://www.hyrtv.cn/itv/zhds/"
+    ]
+  },
+  {
+    "name": "河源公共",
+    "groupName": "广东",
+    "urls": [
+      "https://www.hyrtv.cn/itv/ggds/"
+    ]
+  },
+  {
+    "name": "浙江卫视",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/101"
+    ]
+  },
+  {
+    "name": "浙江都市",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/102"
+    ]
+  },
+  {
+    "name": "浙江生活",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/103"
+    ]
+  },
+  {
+    "name": "浙江影视",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/104"
+    ]
+  },
+  {
+    "name": "浙江民生",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/106"
+    ]
+  },
+  {
+    "name": "浙江新闻",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/107"
+    ]
+  },
+  {
+    "name": "浙江少儿",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/108"
+    ]
+  },
+  {
+    "name": "浙江国际",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/110"
+    ]
+  },
+  {
+    "name": "浙江易购",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/111"
+    ]
+  },
+  {
+    "name": "浙江纪录",
+    "groupName": "浙江",
+    "urls": [
+      "https://www.cztv.com/liveTV/112"
+    ]
+  },
+  {
     "name": "东方卫视",
     "groupName": "上海",
     "urls": [
